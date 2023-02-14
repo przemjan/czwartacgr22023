@@ -31,7 +31,7 @@ public class Zmienne6 {
 
         //   https://github.com/przemjan/czwartacgr22023
 
-:
+
         // \\ubuckp
     }
 }
